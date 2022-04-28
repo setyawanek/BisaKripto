@@ -1,0 +1,30 @@
+1. tugas minggu ini -> membuat design Database Bisa Kripto
+
+Class Diagram Bisa Kripto
+
+- Register
+    - id -> int
+    - Email -> str
+    - Password -> str
+    - Password2 -> str
+
+- NFT
+    - Id -> int
+    - Title -> str
+    - Creator -> str
+    - Price -> flaot
+    - Description -> str
+    - Contract_Address -> str
+    - Date -> date
+    - Image -> str
+    - Link -> str
+
+- User
+    - Id
+    - Image
+    - Background
+    - Username
+    - Email
+    - Bio
+    - Link_Ig
+    - Link_Tw
